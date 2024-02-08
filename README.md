@@ -30,6 +30,6 @@ React Issues Explorer is an interactive web application that allows users to bro
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/<your-username>/react-issues-explorer.git
-   cd react-issues-explorer
+   git clone https://github.com/PolenPoksi/HomelikeProject.git
+   cd homelike-project
    ```
